@@ -1,1 +1,1 @@
-# final_summer_course
+# final_ITI_summer_training_project
